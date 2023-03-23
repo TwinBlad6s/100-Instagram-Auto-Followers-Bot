@@ -8,17 +8,29 @@ https://generator.email/blog/gmail-generator - dot gmail generator
 👉Temp Mails
 
 https://temp-mail.org/ 
+
 https://mail.tm/en/
+
 https://www.emailondeck.com/ 
+
 https://www.fakemail.net/ 
+
 https://tempail.com/ 
+
 https://www.mohmal.com/en/inbox 
+
 10minutemail.com
+
 Mailnator
+
 E4ward
+
 Guerrilla Mail
+
 ThrowAwayMail
+
 GetNada
+
 YOPmail
 
 Change dot gmail or temp mails from 15 line 
