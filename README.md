@@ -1,9 +1,29 @@
-# 100-Instagram-Auto-Followers-Bot-
+# 100-Instagram-Auto-Followers-Bot
 100 Instagram Auto Followers Bot Using Selenium With Python
 
-#replace with your dot mails in rate.py add 15 dot mails of one gmail and another 15 dot mails in another gmail use these for dot gmails enter your gmail and press generate button after
+replace with your 10 temp mails or with dot gmails for auto 100 instagram followers for each account 10 followers !
 
-https://generator.email/blog/gmail-generator
+https://generator.email/blog/gmail-generator - dot gmail generator
+
+👉Temp Mails
+
+https://temp-mail.org/ 
+https://mail.tm/en/
+https://www.emailondeck.com/ 
+https://www.fakemail.net/ 
+https://tempail.com/ 
+https://www.mohmal.com/en/inbox 
+10minutemail.com
+Mailnator
+E4ward
+Guerrilla Mail
+ThrowAwayMail
+GetNada
+YOPmail
+
+Change dot gmail or temp mails from 15 line 
+
+one after one it take process after one bot run its close the tab and open new tab and create new one !
 
 Download The Latest Version Of Chrome Driver https://chromedriver.chromium.org/ & Extract The File And Place To These Folder open cmd and enter rate or followers.py or you can rename the file and run it.
 
