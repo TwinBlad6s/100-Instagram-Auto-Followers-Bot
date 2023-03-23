@@ -88,7 +88,7 @@ driver.find_element_by_name("password").send_keys('Loose123@#$%')#password
 time.sleep(2)
 driver.find_element_by_name("password_confirmation").send_keys('Loose123@#$%')#password_confirmation
 
-time.sleep(30)#you only click that i am not a robot and clear that verification select all images with ------ in 20 seconds or 25 seconds(your capacity) remaining things go automatic!
+time.sleep(25)#you only click that i am not a robot and clear that verification select all images with ------ in 20 seconds or 25 seconds(your capacity) remaining things go automatic!
 
 driver.find_element_by_name("RegistrationForm[termsofservice]").click()#check box tick
 time.sleep(2)
@@ -117,7 +117,7 @@ driver.find_element_by_name("password").send_keys('Loose123@#$%')#password
 time.sleep(2)
 driver.find_element_by_name("password_confirmation").send_keys('Loose123@#$%')#password_confirmation
 
-time.sleep(30)#you only click that i am not a robot and clear that verification select all images with ------ in 20 seconds or 25 seconds(your capacity) remaining things go automatic!
+time.sleep(25)#you only click that i am not a robot and clear that verification select all images with ------ in 20 seconds or 25 seconds(your capacity) remaining things go automatic!
 
 driver.find_element_by_name("RegistrationForm[termsofservice]").click()#check box tick
 time.sleep(2)
@@ -145,7 +145,7 @@ driver.find_element_by_name("password").send_keys('Loose123@#$%')#password
 time.sleep(2)
 driver.find_element_by_name("password_confirmation").send_keys('Loose123@#$%')#password_confirmation
 
-time.sleep(30)#you only click that i am not a robot and clear that verification select all images with ------ in 20 seconds or 25 seconds(your capacity) remaining things go automatic!
+time.sleep(25)#you only click that i am not a robot and clear that verification select all images with ------ in 20 seconds or 25 seconds(your capacity) remaining things go automatic!
 
 driver.find_element_by_name("RegistrationForm[termsofservice]").click()#check box tick
 time.sleep(2)
@@ -173,7 +173,7 @@ driver.find_element_by_name("password").send_keys('Loose123@#$%')#password
 time.sleep(2)
 driver.find_element_by_name("password_confirmation").send_keys('Loose123@#$%')#password_confirmation
 
-time.sleep(30)#you only click that i am not a robot and clear that verification select all images with ------ in 20 seconds or 25 seconds(your capacity) remaining things go automatic!
+time.sleep(25)#you only click that i am not a robot and clear that verification select all images with ------ in 20 seconds or 25 seconds(your capacity) remaining things go automatic!
 
 driver.find_element_by_name("RegistrationForm[termsofservice]").click()#check box tick
 time.sleep(2)
@@ -201,7 +201,7 @@ driver.find_element_by_name("password").send_keys('Loose123@#$%')#password
 time.sleep(2)
 driver.find_element_by_name("password_confirmation").send_keys('Loose123@#$%')#password_confirmation
 
-time.sleep(30)#you only click that i am not a robot and clear that verification select all images with ------ in 20 seconds or 25 seconds(your capacity) remaining things go automatic!
+time.sleep(25)#you only click that i am not a robot and clear that verification select all images with ------ in 20 seconds or 25 seconds(your capacity) remaining things go automatic!
 
 driver.find_element_by_name("RegistrationForm[termsofservice]").click()#check box tick
 time.sleep(2)
@@ -229,7 +229,7 @@ driver.find_element_by_name("password").send_keys('Loose123@#$%')#password
 time.sleep(2)
 driver.find_element_by_name("password_confirmation").send_keys('Loose123@#$%')#password_confirmation
 
-time.sleep(30)#you only click that i am not a robot and clear that verification select all images with ------ in 20 seconds or 25 seconds(your capacity) remaining things go automatic!
+time.sleep(25)#you only click that i am not a robot and clear that verification select all images with ------ in 20 seconds or 25 seconds(your capacity) remaining things go automatic!
 
 driver.find_element_by_name("RegistrationForm[termsofservice]").click()#check box tick
 time.sleep(2)
@@ -257,7 +257,7 @@ driver.find_element_by_name("password").send_keys('Loose123@#$%')#password
 time.sleep(2)
 driver.find_element_by_name("password_confirmation").send_keys('Loose123@#$%')#password_confirmation
 
-time.sleep(30)#you only click that i am not a robot and clear that verification select all images with ------ in 20 seconds or 25 seconds(your capacity) remaining things go automatic!
+time.sleep(25)#you only click that i am not a robot and clear that verification select all images with ------ in 20 seconds or 25 seconds(your capacity) remaining things go automatic!
 
 driver.find_element_by_name("RegistrationForm[termsofservice]").click()#check box tick
 time.sleep(2)
@@ -285,7 +285,7 @@ driver.find_element_by_name("password").send_keys('Loose123@#$%')#password
 time.sleep(2)
 driver.find_element_by_name("password_confirmation").send_keys('Loose123@#$%')#password_confirmation
 
-time.sleep(30)#you only click that i am not a robot and clear that verification select all images with ------ in 20 seconds or 25 seconds(your capacity) remaining things go automatic!
+time.sleep(25)#you only click that i am not a robot and clear that verification select all images with ------ in 20 seconds or 25 seconds(your capacity) remaining things go automatic!
 
 driver.find_element_by_name("RegistrationForm[termsofservice]").click()#check box tick
 time.sleep(2)
@@ -313,7 +313,7 @@ driver.find_element_by_name("password").send_keys('Loose123@#$%')#password
 time.sleep(2)
 driver.find_element_by_name("password_confirmation").send_keys('Loose123@#$%')#password_confirmation
 
-time.sleep(30)#you only click that i am not a robot and clear that verification select all images with ------ in 20 seconds or 25 seconds(your capacity) remaining things go automatic!
+time.sleep(25)#you only click that i am not a robot and clear that verification select all images with ------ in 20 seconds or 25 seconds(your capacity) remaining things go automatic!
 
 driver.find_element_by_name("RegistrationForm[termsofservice]").click()#check box tick
 time.sleep(2)
@@ -341,7 +341,7 @@ driver.find_element_by_name("password").send_keys('Loose123@#$%')#password
 time.sleep(2)
 driver.find_element_by_name("password_confirmation").send_keys('Loose123@#$%')#password_confirmation
 
-time.sleep(30)#you only click that i am not a robot and clear that verification select all images with ------ in 20 seconds or 25 seconds(your capacity) remaining things go automatic!
+time.sleep(25)#you only click that i am not a robot and clear that verification select all images with ------ in 20 seconds or 25 seconds(your capacity) remaining things go automatic!
 
 driver.find_element_by_name("RegistrationForm[termsofservice]").click()#check box tick
 time.sleep(2)
@@ -355,3 +355,4 @@ time.sleep(2)
 driver.find_element_by_id("btn-proceed").click()#proceed
 time.sleep(15)
 driver.close()
+
