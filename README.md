@@ -1,5 +1,7 @@
 # 100-Instagram-Auto-Followers-Bot
-Get 100 Instagram auto followers using Selenium with Python by replacing your email with 10 temporary email addresses or dot Gmails for each account to get 10 followers.
+Get 100 Instagram auto followers using Selenium with Python 
+
+by replacing your email with 10 temporary email addresses or dot Gmails for each account to get 10 followers.
 
 Here are some options for temporary emails:
 
@@ -36,7 +38,7 @@ Change the dot Gmail or temporary emails from the 15 lines provided, one after t
 To run the program, download the latest version of Chrome Driver from https://chromedriver.chromium.org/ and extract the file to the designated folder. Then, open the command prompt and enter "rate.py" or "followers.py", or rename the file to your liking and run it
 👉Note:-
 
-👉if your selenium version is in latest version then the code never run
+👉If you have the latest version of Selenium, the code may not run.
 
 👉open cmd and enter pip uninstall selenium
 
